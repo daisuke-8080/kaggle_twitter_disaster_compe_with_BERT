@@ -1,4 +1,4 @@
-# kaggleの「twitter disaster competition」に自然言語処理アルゴリズムとして有名なBERTを使って参加しました。
+# kaggleの「Natural Language Processing with Disaster Tweets」に自然言語処理アルゴリズムとして有名なBERTを使って参加しました。
 
 BERTのアルゴリズムを勉強しているうちに実際に使ってみたくなったので、アウトプット代わりにこちらのコンペに参加しました。
 
