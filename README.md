@@ -1,1 +1,5 @@
-# kaggle_twitter_disaster_compe_with_BERT
+# kaggleの「twitter disaster competition」に自然言語処理アルゴリズムとして有名なBERTを使って参加しました。
+
+BERTのアルゴリズムを勉強しているうちに実際に使ってみたくなったので、アウトプット代わりにこちらのコンペに参加しました。
+
+方法としては、Pytorchのライブラリの一つであるtransformersから学習済みBERTをインポートしてファインチューニングしました。
